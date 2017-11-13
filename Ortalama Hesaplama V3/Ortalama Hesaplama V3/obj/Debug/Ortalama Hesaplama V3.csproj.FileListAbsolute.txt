@@ -1,0 +1,20 @@
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.exe.config
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.exe
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.pdb
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\MetroFramework.dll
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\MySql.Data.dll
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.csprojResolveAssemblyReference.cache
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama_Hesaplama_V3.Form1.resources
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama_Hesaplama_V3.Properties.Resources.resources
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.csproj.GenerateResource.Cache
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.exe
+C:\Users\Çağlar\Desktop\ohv3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.pdb
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.exe.config
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.exe
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.pdb
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.exe
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\bin\Debug\Ortalama Hesaplama V3.pdb
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.csprojResolveAssemblyReference.cache
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama_Hesaplama_V3.Form1.resources
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama_Hesaplama_V3.Properties.Resources.resources
+C:\Users\Çağlar\Desktop\ohv3\Ortalama-Hesaplama-v3\Ortalama Hesaplama V3\Ortalama Hesaplama V3\obj\Debug\Ortalama Hesaplama V3.csproj.GenerateResource.Cache
